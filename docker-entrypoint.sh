@@ -2,6 +2,7 @@
 set -Eeo pipefail
 # TODO add "-u"
 
+# start crontab
 crond
 
 # usage: file_env VAR [DEFAULT]
@@ -154,6 +155,7 @@ if [ -n "$isLikelyRedmine" ]; then
     fi
 fi
 
+# crontab add env
 env >>/etc/environment
 
 exec "$@"

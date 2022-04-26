@@ -1,6 +1,6 @@
 # Redmine
 
-简体中文 | [English](./i18n/README.zh-cn.md)
+简体中文 | [English](https://github.com/shencangsheng/redmine)
 
 基于 Redmine 官方镜像，添加了`redmine_gitlab_hook`以及`crontab`定时任务的支持镜像。
 

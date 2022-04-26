@@ -4,7 +4,7 @@
 
 基于 Redmine 官方镜像，添加了`Git Hook`以及`Cron`定时任务的支持镜像。
 
-[DockerHub Repositorie](https://hub.docker.com/repository/docker/shencangsheng/redmine)
+[DockerHub Repositorie](https://github.com/shencangsheng/redmine)
 
 ## 尝试使用
 

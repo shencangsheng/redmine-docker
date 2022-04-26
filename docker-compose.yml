@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  redmine:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
+    environment:
+      TZ: Asia/Shanghai
+      REDMINE_DB_MYSQL:
+      REDMINE_DB_PORT:
+      REDMINE_DB_PASSWORD:
+      REDMINE_SECRET_KEY_BASE: supersecretkey
+      REDMINE_DB_ENCODING: utf8mb4

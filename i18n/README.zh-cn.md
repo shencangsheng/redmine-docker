@@ -2,7 +2,7 @@
 
 简体中文 | [English](./i18n/README.zh-cn.md)
 
-基于 Redmine 官方镜像，添加了`Git Hook`以及`Cron`定时任务的支持镜像。
+基于 Redmine 官方镜像，添加了`redmine_gitlab_hook`以及`crontab`定时任务的支持镜像。
 
 [DockerHub Repositorie](https://github.com/shencangsheng/redmine)
 

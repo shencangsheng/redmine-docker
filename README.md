@@ -4,7 +4,7 @@ English | [简体中文](./i18n/README.zh-cn.md)
 
 Added `redmine_gitlab_hook` and `crontab` scheduled task support images based on Redmine official images.
 
-[DockerHub Repositorie](https://hub.docker.com/repository/docker/shencangsheng/redmine)
+[DockerHub Repositorie](https://hub.docker.com/r/shencangsheng/redmine)
 
 ## How to use for your
 

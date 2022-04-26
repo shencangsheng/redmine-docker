@@ -4,7 +4,7 @@
 
 基于 Redmine 官方镜像，添加了`redmine_gitlab_hook`以及`crontab`定时任务的支持镜像。
 
-[DockerHub Repositorie](https://github.com/shencangsheng/redmine)
+[DockerHub Repositorie](https://hub.docker.com/r/shencangsheng/redmine)
 
 ## 尝试使用
 
